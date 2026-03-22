@@ -1,6 +1,6 @@
 # Çin Tedarikçileri - Gri Su Ekipmanları
 **Son Güncelleme:** Mart 2026
-**Kayıt Sayısı:** 12 Tedarikçi
+**Kayıt Sayısı:** 15 Tedarikçi
 **Kapsanan Kategoriler:** Motorlu Vanalar, Bio Filtreler, UV Sistemler, Pompalar, Vakum Kırıcılar
 
 ---
@@ -217,6 +217,97 @@
 
 ---
 
+### 6. TOFINE FLOW CONTROLS CO., LTD.
+**Konum:** Tianjin
+**Kuruluş:** 1998
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: sales@flow-controls.com
+- Tel: +86 22 58266338
+- Website: www.flow-controls.com
+
+**Ürünler:**
+| Ürün | Adet Aralığı | Fiyat (USD) | MOQ |
+|------|-------------|-------------|-----|
+| Motorlu Vana 1/2" | 1–10 adet | $35.80 | **1 adet** |
+| Motorlu Vana 1/2" | 11–50 adet | $32.50 | 1 adet |
+| Motorlu Vana 1/2" | 100+ adet | $26.90 | 1 adet |
+
+**Teknik Özellikler:**
+- Üretim Süresi: ~20 gün
+- MOQ: 1 adet (sektörde nadir avantaj)
+
+**Değerlendirme:**
+- Artılar: MOQ sadece 1 adet (prototip ve küçük sipariş için ideal), hızlı yanıt süresi, kabul edilebilir kalite
+- Eksiler: Fiyat diğer tedarikçilere göre yüksek, üretim süresi 20 gün
+- **Skor: 8.5/10**
+
+**Kullanım Senaryosu:** 1–50 adet arası siparişler için önerilen
+
+---
+
+### 7. KAILING VALVE CO. (Ningbo — Perakende Hat)
+**Konum:** Ningbo, Zhejiang
+**Kuruluş:** 2001
+**Statü:** ⭐ Gold Supplier | ✅ Trade Assurance | 🏭 Verified Manufacturer
+
+**İletişim:**
+- Email: sales@kailingvalve.com
+- Tel: +86 574 8825 6688
+- Website: www.kailingpneumatic.com
+
+> **Not:** Bu kayıt, Kailing'in perakende/küçük hacim fiyat hattını yansıtmaktadır.
+> Toptan FOB fiyatları için bkz. Tedarikçi #2 (export@kailingvalve.com.cn).
+
+**Ürünler:**
+| Ürün | Adet Aralığı | Fiyat (USD) | MOQ |
+|------|-------------|-------------|-----|
+| Motorlu Vana 1/2" | 5–20 adet | $28.50 | 5 adet |
+| Motorlu Vana 1/2" | 100+ adet | $22.00 | 5 adet |
+
+**Teknik Özellikler:**
+- Garanti: 24 ay
+- Sertifikalar: CE, ISO 9001, SGS ve diğerleri (çok sertifikalı)
+- OEM/ODM: Kabul eder
+
+**Değerlendirme:**
+- Artılar: Kapsamlı sertifikasyon, 24 ay garanti (sektörde en uzun), OEM esnekliği
+- Eksiler: Yanıt süresi 24–48 saat
+- **Skor: 9.0/10** 🏆
+
+**Kullanım Senaryosu:** 50–200 adet arası siparişler için önerilen
+
+---
+
+### 8. VALTEC AUTOMATION CO., LTD.
+**Konum:** Guangzhou, Guangdong
+**Kuruluş:** 2008
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: export@valtecauto.com
+- Tel: +86 139 2600 8877
+
+**Ürünler:**
+| Ürün | Adet Aralığı | Fiyat (USD) | MOQ |
+|------|-------------|-------------|-----|
+| Motorlu Vana 1/2" | 10–30 adet | $21.50 🔥 | 10 adet |
+| Motorlu Vana 1/2" | 100+ adet | $16.50 | 10 adet |
+
+**Teknik Özellikler:**
+- Garanti: 12 ay
+- Guangzhou liman erişimi (kargo avantajı)
+
+**Değerlendirme:**
+- Artılar: Sektörün en düşük fiyatı ($16.50/100+), Guangzhou liman avantajı
+- Eksiler: MOQ 10 adet (düşük hacim için esnek değil), garanti süresi kısa (12 ay)
+- **Skor: 7.5/10**
+
+**Kullanım Senaryosu:** 200+ adet hacimli siparişler için önerilen
+
+---
+
 ## 🟢 BİO FİLTRE MATLARI
 
 ---
@@ -398,9 +489,10 @@
 
 ## 📊 KATEGORİ ÖZET TABLOSU
 
-| Kategori | En Ucuz | En Güvenilir | Önerilen |
-|----------|---------|--------------|----------|
-| Motorlu Vana | Ningbo Kailing | Zhejiang Vanny | Zhejiang Vanny |
+| Kategori | En Ucuz | En Güvenilir | Önerilen (Küçük Hacim) | Önerilen (Büyük Hacim) |
+|----------|---------|--------------|------------------------|------------------------|
+| Motorlu Vana (FOB Toptan) | Ningbo Kailing | Zhejiang Vanny | Zhejiang Vanny | Zhejiang Vanny |
+| Motorlu Vana (Perakende/Mini) | Valtec ($16.50) | Kailing ($28.50) | Tofine (MOQ=1) | Valtec (200+) |
 | Bio Filtre Matı | Dongguan Hifoam | Guangzhou Sino | Dongguan Hifoam |
 | UV Sistem | Guangzhou Halosource | Beijing Entech | Guangzhou Halosource |
 | Pompa | Yueqing Biming | Hangzhou Chunlei | Hangzhou Chunlei |
