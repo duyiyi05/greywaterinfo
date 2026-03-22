@@ -1,7 +1,7 @@
 # Çin Tedarikçileri - Gri Su Ekipmanları
 **Son Güncelleme:** Mart 2026
-**Kayıt Sayısı:** 26 Tedarikçi
-**Kapsanan Kategoriler:** Motorlu Vanalar, Bio Filtreler, UV Sistemler, Pompalar, Vakum Kırıcılar
+**Kayıt Sayısı:** 37 Tedarikçi
+**Kapsanan Kategoriler:** Motorlu Vanalar, Bio Filtreler, UV Sistemler, Pompalar, Tanklar, Kontrol Sistemleri, Fırçalar, Vakum Kırıcılar
 
 ---
 
@@ -622,6 +622,175 @@
 
 ---
 
+### 27. DOYIN PUMP CO., LTD.
+**Kategori:** Pompa — Gri Su Uzmanı
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: info@doyinpump.com
+
+**Ürünler:**
+| Ürün | Fiyat Aralığı (USD) | MOQ |
+|------|---------------------|-----|
+| Gri Su Pompası (küçük) | $45 | — |
+| Gri Su Pompası (büyük) | $380 | — |
+
+**Teknik Özellikler:**
+- Uzmanlık: Gri su sistemleri (özel tasarım)
+- Garanti: 2 yıl
+
+**Değerlendirme:**
+- Artılar: Gri su uygulamasına özel tasarım, 2 yıl garanti, geniş kapasite aralığı ($45–$380)
+- **Skor: 8.5/10** 🏆
+
+**Kullanım Senaryosu:** Gri su sistemi ana pompası — öncelikli seçim
+
+---
+
+### 28. KAIQUAN PUMP GROUP CO., LTD.
+**Kategori:** Pompa — Endüstriyel Segment
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: export@shkaiquan.com
+
+**Ürünler:**
+| Ürün | Fiyat Aralığı (USD) | MOQ |
+|------|---------------------|-----|
+| Endüstriyel Pompa | $120–$650 | — |
+
+**Teknik Özellikler:**
+- Garanti: 3 yıl (sektörde üstün)
+
+**Değerlendirme:**
+- Artılar: 3 yıl garanti, endüstriyel kalite
+- Eksiler: Fiyat yüksek ($120–$650), konut ölçekli için aşırı boyutlu olabilir
+- **Skor: 8.0/10**
+
+**Kullanım Senaryosu:** Yüksek kapasiteli ticari/endüstriyel gri su sistemleri
+
+---
+
+## 🟤 TANKLAR
+
+---
+
+### 29. HAICHENG PLASTIC CO., LTD.
+**Kategori:** Depolama Tankı — PE/PP
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: export@hcplastic.com
+
+**Ürünler:**
+| Ürün | Fiyat Aralığı (USD) | Kapasite |
+|------|---------------------|---------|
+| PE/PP Depolama Tankı | $45–$1,200 | 50L–20,000L |
+
+**Teknik Özellikler:**
+- Malzeme: PE (Polietilen) / PP (Polipropilen)
+- Kapasite: 50 litre – 20,000 litre (geniş aralık)
+- Renk: Mor/lila (gri su standardı — içme suyundan ayırt için)
+- Garanti: **10 yıl** (sektörde en uzun)
+
+**Değerlendirme:**
+- Artılar: 10 yıl garanti, mor/lila renk seçeneği (gri su standartlarına uygun), geniş kapasite aralığı
+- **Skor: 8.5/10** 🏆
+
+**Kullanım Senaryosu:** Tüm ölçeklerde gri su depolama — öncelikli tank tedarikçisi
+
+---
+
+### 30. DEPAI TANK CO., LTD.
+**Kategori:** Depolama Tankı — FRP / Paslanmaz Çelik
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: sales@depaicn.com
+
+**Ürünler:**
+| Ürün | Fiyat Aralığı (USD) |
+|------|---------------------|
+| FRP / SS Depolama Tankı | $380–$8,500 |
+
+**Değerlendirme:**
+- Artılar: FRP ve paslanmaz çelik seçenekleri (endüstriyel dayanıklılık)
+- Eksiler: Fiyat yüksek ($380+ başlangıç)
+- **Skor: 8.0/10**
+
+**Kullanım Senaryosu:** Ticari/endüstriyel projeler, korozyon direnci gerektiren uygulamalar
+
+---
+
+## ⚙️ KONTROL SİSTEMLERİ
+
+---
+
+### 31. MOTROL AUTOMATION CO., LTD.
+**Kategori:** PLC / IoT Kontrol Sistemi
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: info@motrol.net
+
+**Ürünler:**
+| Ürün | Fiyat Aralığı (USD/set) |
+|------|------------------------|
+| PLC Kontrol Seti | $120 |
+| IoT + Mobil Uygulama Seti | $850 |
+
+**Teknik Özellikler:**
+- PLC tabanlı otomasyon
+- IoT entegrasyonu
+- Mobil uygulama kontrolü
+
+**Değerlendirme:**
+- Artılar: Akıllı sistem — PLC + IoT + mobil uygulama tek pakette
+- Eksiler: Kompleks kurulum, fiyat yüksek
+- **Skor: 8.0/10**
+
+**Kullanım Senaryosu:** Akıllı gri su sistemleri, uzaktan izleme gerektiren projeler
+
+---
+
+## 🧹 FIRÇALAR (Boru / Filtre Temizleme)
+
+---
+
+### 32. TIANYANG BRUSH CO.
+**Kategori:** Temizleme Fırçası
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) |
+|------|-----------------|
+| Boru/Filtre Temizleme Fırçası | $0.95 🔥 |
+
+**Notlar:** En düşük fiyat — yüksek hacim için ideal
+
+---
+
+### 33. JIEXI BRUSH CO.
+**Kategori:** Temizleme Fırçası
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) |
+|------|-----------------|
+| Boru/Filtre Temizleme Fırçası | $1.20 |
+
+---
+
+### 34. HAICHUAN BRUSH CO.
+**Kategori:** Temizleme Fırçası — Premium
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) |
+|------|-----------------|
+| Temizleme Fırçası (Premium) | $1.35 |
+
+**Notlar:** Premium kalite — uzun ömürlü kıl yapısı
+
+---
+
 ## 🟠 VAKUM KIRICILAR
 
 ---
@@ -651,6 +820,40 @@
 
 ---
 
+### 35. YIKAI VALVE CO.
+**Kategori:** Vakum Kırıcı
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Vakum Kırıcı | $3.50 🔥 | — |
+
+**Notlar:** En düşük fiyat — bütçe odaklı projeler için
+
+---
+
+### 36. KAILING VALVE (Vakum Kırıcı Hattı)
+**Kategori:** Vakum Kırıcı
+
+> **Not:** Kailing'in vakum kırıcı ürün hattı. Motorlu vana hattı için bkz. Tedarikçi #7.
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Vakum Kırıcı | $4.80 | — |
+
+---
+
+### 37. FENGLI VALVE CO.
+**Kategori:** Vakum Kırıcı
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Vakum Kırıcı | $4.20 | — |
+
+---
+
 ## 📊 KATEGORİ ÖZET TABLOSU
 
 | Kategori | En Ucuz | En Güvenilir | Önerilen (Küçük Hacim) | Önerilen (Büyük Hacim) |
@@ -661,8 +864,13 @@
 | Bio Filtre Matı (Mini) | Dongfang ($1.85) | Darlly (Premium) | Bestn (MOQ=10) | Dongfang (100+) |
 | UV Sistem (FOB) | Guangzhou Halosource | Beijing Entech | Guangzhou Halosource | Guangzhou Halosource |
 | UV Sistem (Mini) | Kingrate ($22) | Tepro (NSF) | Tepro (NSF belgeli) | Kingrate (Bütçe) |
-| Pompa | Yueqing Biming | Hangzhou Chunlei | Hangzhou Chunlei |
-| Vakum Kırıcı | Cixi Jianlong | Cixi Jianlong | Cixi Jianlong |
+| Pompa (FOB) | Yueqing Biming | Hangzhou Chunlei | Hangzhou Chunlei | Hangzhou Chunlei |
+| Pompa (Gri Su) | Doyin ($45) | Kaiquan (3yr) | Doyin 🏆 | Kaiquan (Endüstriyel) |
+| Tank | Haicheng ($45) | Depai (FRP/SS) | Haicheng 🏆 (10yr) | Depai (Ticari) |
+| Kontrol Sistemi | — | Motrol (IoT) | Motrol | Motrol |
+| Fırça | Tianyang ($0.95) | Haichuan (Premium) | Tianyang | Haichuan |
+| Vakum Kırıcı (FOB) | Cixi Jianlong | Cixi Jianlong | Cixi Jianlong | Cixi Jianlong |
+| Vakum Kırıcı (Mini) | Yikai ($3.50) | Kailing ($4.80) | Yikai | Fengli ($4.20) |
 
 ---
 
