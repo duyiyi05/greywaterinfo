@@ -281,16 +281,138 @@ IFAT:               [████████████████]
 | 4 | Canton Fair | 1–5 May | 🇨🇳 | $1,400 | 200,000+ | — | — | ⭐⭐⭐ |
 | 5 | IFAT Munich | 4–8 May | 🇩🇪 | €9,500 | 140,000+ | 200–300 | %350 | ⭐⭐⭐ |
 | 6 | China Water | 3–5 Haz | 🇨🇳 | $2,100 | 45,000 | 40–60 | — | ⭐⭐⭐ |
+| 7 | Yiwu Fair | Q3 2026 | 🇨🇳 | $1,200 | — | — | — | ⭐ |
+| 8 | India Water | Q3 2026 | 🇮🇳 | $1,800 | — | — | — | ⭐⭐ |
+| 9 | Ozwater | Q3 2026 | 🇦🇺 | $5,700 | — | — | — | ⭐ |
+| 10 | Barcelona Water | Q3 2026 | 🇪🇸 | €5,200 | — | — | — | ⭐⭐ |
+| 11 | Canton Fall | Q4 2026 | 🇨🇳 | $1,400 | 200,000+ | — | — | ⭐⭐⭐ |
+| 12 | Singapore Water | Q4 2026 | 🇸🇬 | $11,200 | — | — | — | ⭐⭐ |
+| 13 | Brazil Water | Q4 2026 | 🇧🇷 | $5,600 | — | — | — | ⭐ |
+| 14 | Oman Water | Q4 2026 | 🇴🇲 | $2,200 | — | — | — | ⭐⭐ |
+| 15 | France Water | Q4 2026 | 🇫🇷 | €6,800 | — | — | — | ⭐ |
 
-**Toplam Fuar Bütçesi (6 Fuar):**
+---
+
+## 📅 Q3 2026
+
+---
+
+### FUAR #7 — YİWU ULUSLARARASI TICARET FUARI
+**Ülke:** 🇨🇳 Çin — Yiwu
+**Dönem:** Q3 2026
+**Maliyet:** $1,200
+**Amaç:** Parça / aksesuar tedarik (Çin iç pazar fiyatları)
+**Öncelik:** ⭐ — Bölgesel, Canton yeterliyse gereksiz
+
+---
+
+### FUAR #8 — INDIA WATER EXPO
+**Ülke:** 🇮🇳 Hindistan
+**Dönem:** Q3 2026
+**Maliyet:** $1,800
+**Amaç:** Güney Asya pazar girişi
+**Öncelik:** ⭐⭐ — Büyüyen pazar, orta öncelik
+
+---
+
+### FUAR #9 — OZWATER (Avustralya)
+**Ülke:** 🇦🇺 Avustralya
+**Dönem:** Q3 2026
+**Maliyet:** $5,700
+**Amaç:** Pasifik pazar
+**Öncelik:** ⭐ — Uzak, pahalı ulaşım, düşük öncelik
+
+---
+
+### FUAR #10 — BARCELONA SMART WATER SUMMIT
+**Ülke:** 🇪🇸 İspanya — Barcelona
+**Dönem:** Q3 2026
+**Maliyet:** €5,200
+**Amaç:** İspanya / Güney Avrupa pazarı
+**Öncelik:** ⭐⭐ — IFAT / Aquatech sonrası değerlendirilebilir
+
+---
+
+## 📅 Q4 2026
+
+---
+
+### FUAR #11 — CANTON FALL (Sonbahar Kanton Fuarı)
+**Ülke:** 🇨🇳 Çin — Guangzhou
+**Dönem:** Q4 2026 (Ekim)
+**Maliyet:** $1,400
+**Amaç:** Parça tedarik — Spring Canton'u tamamlar
+**Öncelik:** ⭐⭐⭐ — Mayıs Canton ile aynı model, Q4 sipariş için kritik
+
+---
+
+### FUAR #12 — SINGAPORE INTERNATIONAL WATER WEEK
+**Ülke:** 🇸🇬 Singapur
+**Dönem:** Q4 2026
+**Maliyet:** $11,200
+**Amaç:** Güneydoğu Asya pazarı
+**Öncelik:** ⭐⭐ — Prestijli ama en pahalı (#12); bütçe kısıtlıysa ertele
+
+---
+
+### FUAR #13 — BRAZIL WATER EXPO
+**Ülke:** 🇧🇷 Brezilya
+**Dönem:** Q4 2026
+**Maliyet:** $5,600
+**Amaç:** Latin Amerika pazar girişi
+**Öncelik:** ⭐ — Uzak pazar, erken aşama için düşük öncelik
+
+---
+
+### FUAR #14 — OMAN WATER FORUM
+**Ülke:** 🇴🇲 Umman
+**Dönem:** Q4 2026
+**Maliyet:** $2,200
+**Amaç:** Körfez / MENA bölgesi (Dubai tamamlayıcısı)
+**Öncelik:** ⭐⭐ — Dubai ile MENA stratejisi kurulursa değerlendirilebilir
+
+---
+
+### FUAR #15 — FRANCE WATER CONGRESS
+**Ülke:** 🇫🇷 Fransa
+**Dönem:** Q4 2026
+**Maliyet:** €6,800
+**Amaç:** Fransa / Batı Avrupa pazarı
+**Öncelik:** ⭐ — IFAT kapsamı ile örtüşüyor, ek değer düşük
+
+---
+
+## 🌍 2027 FUAR PİPELINE
+
+**İzlenen fuarlar (#16–30):** 15 adet — hepsi ⭐ Bölgesel öncelik
+
+| Ülke | Fuar |
+|------|------|
+| 🇷🇺 Rusya | — |
+| 🇰🇪 Kenya | — |
+| 🇰🇷 Kore | — |
+| 🇻🇳 Vietnam | — |
+| 🇮🇷 İran | — |
+| 🇵🇰 Pakistan | — |
+| 🇪🇬 Mısır | — |
+| 🇷🇴 Romanya | — |
+| 🇵🇱 Polonya | — |
+| 🇬🇷 Yunanistan | — |
+| 🇸🇦 Suudi Arabistan | — |
+| 🇲🇦 Fas | — |
+| 🇹🇭 Tayland | — |
+| +2 | TBD | — |
+
+**Strateji:** 2026 fuarlarında edinilen deneyim ve pazar verisine göre 2027 seçimi yapılacak.
+
+---
+
+## 📊 TAM FUAR TAKVİMİ 2026
+
+**Tam liste yukarıdaki tabloda (Fuarlar #1–15).**
+
+**Toplam Fuar Bütçesi — Tüm 2026 Fuarları (15 Fuar):**
 ```
-Dubai Water:     $3,950
-Turkey Summit:  ~€1,375
-Aquatech AMS:    €7,200
-Canton Fair:     $1,400
-IFAT Munich:     €9,500
-China Water:     $2,100
-                 ───────────────────────
-TOPLAM:         ~$7,450 + €18,075
-                (~$27,300 USD toplam)
+Tüm fuarlar katılınırsa:  ~$38,250 + €28,075  (~$69,000 USD)
+Seçici strateji (5 fuar): bkz. mini-catalog-fairs-other-part6.md
 ```
