@@ -1,7 +1,109 @@
 # Fuar Takvimi 2026
 **Son Güncelleme:** Mart 2026
-**Kapsanan Fuarlar:** 6 (Bölüm 4-5/10)
-**Amaçlar:** Parça Tedarik · Sistem Tanıtımı · Rakip Analizi
+**Kapsanan Fuarlar:** 6
+**Amaçlar:** Parça Tedarik · Sistem Tanıtımı · Rakip Analizi · Yerel Pazar
+
+---
+
+## 📅 OCAK 2026
+
+---
+
+### FUAR #1 — INTERSEC / DUBAI WATER EXPO
+**Ülke:** 🇦🇪 Birleşik Arap Emirlikleri — Dubai
+**Tarih:** 13–15 Ocak 2026
+**Süre:** 3 gün
+
+**Maliyet:**
+| Kalem | Tutar |
+|-------|-------|
+| Toplam (stant dahil) | $3,950 |
+
+**Ölçek:**
+| Metrik | Değer |
+|--------|-------|
+| Ziyaretçi | 8,000 |
+| Beklenen Lead | 40–60 |
+
+**Pazar:** Premium / Körfez Bölgesi
+
+**Artılar / Eksiler:**
+| Artılar | Eksiler |
+|---------|---------|
+| ✅ Premium pazar erişimi | ❌ Pahalı (stant dahil $3,950) |
+| ✅ Körfez bölgesi müşterileri | ❌ Ziyaretçi sayısı küçük (8,000) |
+
+**Öncelik:** ⭐⭐
+
+---
+
+## 📅 MART 2026
+
+---
+
+### FUAR #2 — TURKEY WATER & ENVIRONMENT SUMMIT
+**Ülke:** 🇹🇷 Türkiye — İstanbul
+**Tarih:** 18–20 Mart 2026
+**Süre:** 3 gün
+
+**Maliyet:**
+| Kalem | Tutar |
+|-------|-------|
+| Toplam | ₺47,350 (~€1,375) |
+
+**Ölçek:**
+| Metrik | Değer |
+|--------|-------|
+| Ziyaretçi | 5,500 |
+| Beklenen Lead | 30–50 |
+| ROI | %150 |
+
+**Artılar / Eksiler:**
+| Artılar | Eksiler |
+|---------|---------|
+| ✅ Yerel pazar — ev sahibi avantajı | ❌ Küçük ölçek (5,500 kişi) |
+| ✅ Türkçe — dil avantajı | |
+| ✅ Çok ucuz (~€1,375) | |
+
+**Öncelik:** ⭐⭐⭐ MUTLAKA
+
+---
+
+## 📅 NİSAN — MAYIS 2026
+
+---
+
+### FUAR #3 — AQUATECH AMSTERDAM
+**Ülke:** 🇳🇱 Hollanda — Amsterdam
+**Tarih:** 28 Nisan – 1 Mayıs 2026
+**Süre:** 4 gün
+
+**Maliyet:**
+| Kalem | Tutar |
+|-------|-------|
+| Toplam | €7,200 |
+
+**Ölçek:**
+| Metrik | Değer |
+|--------|-------|
+| Ziyaretçi | 22,000 |
+| Beklenen Lead | 100–150 |
+| ROI | %280 |
+
+**Özel Bölgeler:**
+- Smart Water Zone
+- Innovation Theater
+
+**Artılar / Eksiler:**
+| Artılar | Eksiler |
+|---------|---------|
+| ✅ Kaliteli Avrupa ziyaretçi profili | ❌ IFAT ile aynı dönem (bütçe rekabeti) |
+| ✅ ROI %280 | |
+
+**Not:** IFAT Munich (4-8 Mayıs) hemen ardından geliyor → Aquatech (28 Nisan – 1 Mayıs)
+bitince doğrudan Münih'e geçilebilir.
+
+**Öncelik:** ⭐⭐⭐
 
 ---
 
@@ -169,22 +271,26 @@ IFAT:               [████████████████]
 
 ---
 
-## 📊 3 FUAR KARŞILAŞTIRMA
+## 📊 TAM FUAR TAKVİMİ 2026
 
-| Metrik | Canton | IFAT | China Water |
-|--------|--------|------|-------------|
-| Tarih | 1–5 May | 4–8 May | 3–5 Haz |
-| Maliyet | $1,400 | €9,500 | $2,100 |
-| Ziyaretçi | 200,000+ | 140,000+ | 45,000 |
-| Amaç | Parça | **Sistem Sat** | Parça + Analiz |
-| ROI | Maliyet tasarrufu | **%350** | Orta |
-| Öncelik | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| # | Fuar | Tarih | Ülke | Maliyet | Ziyaretçi | Lead | ROI | Öncelik |
+|---|------|-------|------|---------|-----------|------|-----|---------|
+| 1 | Dubai Water | 13–15 Oca | 🇦🇪 | $3,950 | 8,000 | 40–60 | — | ⭐⭐ |
+| 2 | Turkey Summit | 18–20 Mar | 🇹🇷 | ~€1,375 | 5,500 | 30–50 | %150 | ⭐⭐⭐ |
+| 3 | Aquatech AMS | 28 Nis–1 May | 🇳🇱 | €7,200 | 22,000 | 100–150 | %280 | ⭐⭐⭐ |
+| 4 | Canton Fair | 1–5 May | 🇨🇳 | $1,400 | 200,000+ | — | — | ⭐⭐⭐ |
+| 5 | IFAT Munich | 4–8 May | 🇩🇪 | €9,500 | 140,000+ | 200–300 | %350 | ⭐⭐⭐ |
+| 6 | China Water | 3–5 Haz | 🇨🇳 | $2,100 | 45,000 | 40–60 | — | ⭐⭐⭐ |
 
-**Toplam Fuar Bütçesi (3 Fuar):**
+**Toplam Fuar Bütçesi (6 Fuar):**
 ```
-Canton:      $1,400
-IFAT:        €9,500 (~$10,450)
-China Water: $2,100
-             ──────────────────
-TOPLAM:      ~$13,950
+Dubai Water:     $3,950
+Turkey Summit:  ~€1,375
+Aquatech AMS:    €7,200
+Canton Fair:     $1,400
+IFAT Munich:     €9,500
+China Water:     $2,100
+                 ───────────────────────
+TOPLAM:         ~$7,450 + €18,075
+                (~$27,300 USD toplam)
 ```
