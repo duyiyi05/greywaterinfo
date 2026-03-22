@@ -1,6 +1,6 @@
 # Çin Tedarikçileri - Gri Su Ekipmanları
 **Son Güncelleme:** Mart 2026
-**Kayıt Sayısı:** 15 Tedarikçi
+**Kayıt Sayısı:** 26 Tedarikçi
 **Kapsanan Kategoriler:** Motorlu Vanalar, Bio Filtreler, UV Sistemler, Pompalar, Vakum Kırıcılar
 
 ---
@@ -359,6 +359,90 @@
 
 ---
 
+### 16. BESTN PACKING CO., LTD.
+**Kategori:** Bio Filtre Matı
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: alinna@bestpacking.cn
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı | $2.60 | **10 adet** |
+
+**Değerlendirme:**
+- Artılar: Çok düşük MOQ (10 adet), ücretsiz numune imkânı
+- Eksiler: Kargo maliyeti yüksek
+- **Skor: 7.0/10**
+
+**Kullanım Senaryosu:** Numune testi ve küçük proje denemeleri için
+
+---
+
+### 17. DONGFANG FILTER CO., LTD.
+**Kategori:** Bio Filtre Matı
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: sales@dffilter.com
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı | $1.85 🔥 | 100 adet |
+
+**Değerlendirme:**
+- Artılar: En düşük fiyat ($1.85 — sektör rekoru), özelleştirilebilir boyut/yoğunluk
+- Eksiler: MOQ 100 adet
+- **Skor: 8.0/10** 🏆
+
+**Kullanım Senaryosu:** 100+ adet toplu sipariş — maliyet odaklı projeler
+
+---
+
+### 18. YUEQUN FILTER MATERIALS CO.
+**Kategori:** Bio Filtre Matı
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı | $2.35 | 50 adet |
+
+---
+
+### 19. YIXING FILTER TECH CO.
+**Kategori:** Bio Filtre Matı
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı | $2.25 | 100 adet |
+
+---
+
+### 20. DARLLY FILTRATION CO.
+**Kategori:** Bio Filtre Matı — Premium Segment
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı (Premium) | $2.90 | — |
+
+**Notlar:** Yüksek yoğunluk, uzun ömür — premium kurulum için
+
+---
+
+### 21. ANNING FILTER CO.
+**Kategori:** Bio Filtre Matı
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| Bio Filtre Matı | $2.15 | 80 adet |
+
+---
+
 ## 🔵 UV SİSTEMLERİ
 
 ---
@@ -405,6 +489,86 @@
 | UV Lamba 20W | HS-L20 | $6.50–$11.00 | 30 adet |
 
 **Notlar:** Fiyat avantajlı, CE sertifikalı
+
+---
+
+### 22. TEPRO LIGHT CO., LTD.
+**Kategori:** UV Sterilizasyon
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: sales@teprolight.com
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| UV Sterilizatör | $25.00 | 5 adet |
+
+**Teknik Özellikler:**
+- Sertifika: **NSF/ANSI 55** (içme suyu kalitesinde UV standardı)
+- Garanti: 24 ay
+
+**Değerlendirme:**
+- Artılar: NSF/ANSI 55 sertifikası (en yüksek UV standardı), 24 ay garanti, üstün kalite
+- Eksiler: Fiyat rakiplerine göre biraz yüksek
+- **Skor: 9.5/10** 🏆
+
+**Kullanım Senaryosu:** Sağlık-kritik uygulamalar, ihracat ürünleri, NSF belgesi gerektiren projeler
+
+---
+
+### 23. KINGRATE LIGHT CO., LTD.
+**Kategori:** UV Sterilizasyon
+**Statü:** Verified Supplier
+
+**İletişim:**
+- Email: info@kingratelight.com
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | MOQ |
+|------|-----------------|-----|
+| UV Sterilizatör | $22.00 🔥 | — |
+
+**Teknik Özellikler:**
+- Teslimat: 7–10 gün (hızlı)
+- Sertifika: CE (NSF yok)
+
+**Değerlendirme:**
+- Artılar: En düşük fiyat ($22), hızlı teslimat (7–10 gün)
+- Eksiler: NSF/ANSI 55 sertifikası yok
+- **Skor: 7.5/10**
+
+**Kullanım Senaryosu:** Bütçe kısıtlı projeler, iç kullanım, NSF belgesi gerekmeyen uygulamalar
+
+---
+
+### 24. SUNLIGHT UV CO.
+**Kategori:** UV Sterilizasyon
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) | Garanti |
+|------|-----------------|---------|
+| UV Sterilizatör | $32.00 | 2 yıl |
+
+---
+
+### 25. SUNFINE UV CO.
+**Kategori:** UV Sterilizasyon
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) |
+|------|-----------------|
+| UV Sterilizatör | $29.90 |
+
+---
+
+### 26. GREEN UV TECHNOLOGY
+**Kategori:** UV Sterilizasyon
+
+**Ürünler:**
+| Ürün | Fiyat (USD/adet) |
+|------|-----------------|
+| UV Sterilizatör | $31.50 |
 
 ---
 
@@ -493,8 +657,10 @@
 |----------|---------|--------------|------------------------|------------------------|
 | Motorlu Vana (FOB Toptan) | Ningbo Kailing | Zhejiang Vanny | Zhejiang Vanny | Zhejiang Vanny |
 | Motorlu Vana (Perakende/Mini) | Valtec ($16.50) | Kailing ($28.50) | Tofine (MOQ=1) | Valtec (200+) |
-| Bio Filtre Matı | Dongguan Hifoam | Guangzhou Sino | Dongguan Hifoam |
-| UV Sistem | Guangzhou Halosource | Beijing Entech | Guangzhou Halosource |
+| Bio Filtre Matı (FOB) | Dongguan Hifoam | Guangzhou Sino | Dongguan Hifoam | Dongguan Hifoam |
+| Bio Filtre Matı (Mini) | Dongfang ($1.85) | Darlly (Premium) | Bestn (MOQ=10) | Dongfang (100+) |
+| UV Sistem (FOB) | Guangzhou Halosource | Beijing Entech | Guangzhou Halosource | Guangzhou Halosource |
+| UV Sistem (Mini) | Kingrate ($22) | Tepro (NSF) | Tepro (NSF belgeli) | Kingrate (Bütçe) |
 | Pompa | Yueqing Biming | Hangzhou Chunlei | Hangzhou Chunlei |
 | Vakum Kırıcı | Cixi Jianlong | Cixi Jianlong | Cixi Jianlong |
 
