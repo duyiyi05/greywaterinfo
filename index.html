@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FEBA Elektronik — Gri Su Bilgi Merkezi</title>
+  <style>
+    :root {
+      --blue: #1e40af;
+      --blue-light: #3b82f6;
+      --teal: #0d9488;
+      --gray-50: #f8fafc;
+      --gray-100: #f1f5f9;
+      --gray-200: #e2e8f0;
+      --gray-600: #475569;
+      --gray-700: #334155;
+      --gray-900: #0f172a;
+      --green: #16a34a;
+      --amber: #d97706;
+      --red: #dc2626;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--gray-50);
+      color: var(--gray-700);
+      line-height: 1.6;
+    }
+
+    /* HEADER */
+    header {
+      background: linear-gradient(135deg, var(--blue) 0%, #1e3a8a 100%);
+      color: white;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+    }
+    header .badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 20px;
+      padding: 0.25rem 0.9rem;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+    header h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+    header p {
+      font-size: 1rem;
+      opacity: 0.85;
+    }
+
+    /* NAV */
+    nav {
+      background: white;
+      border-bottom: 1px solid var(--gray-200);
+      padding: 0 1.5rem;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+    }
+    nav a {
+      display: block;
+      padding: 1rem 1.2rem;
+      color: var(--gray-600);
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      white-space: nowrap;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+    }
+    nav a:hover, nav a.active {
+      color: var(--blue);
+      border-bottom-color: var(--blue);
+    }
+
+    /* MAIN */
+    main {
+      max-width: 1100px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+
+    /* HERO CARD */
+    .hero-card {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      border: 1px solid var(--gray-200);
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 1.5rem;
+      align-items: center;
+    }
+    .hero-card h2 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--gray-900);
+      margin-bottom: 0.5rem;
+    }
+    .hero-card p {
+      color: var(--gray-600);
+      font-size: 0.9rem;
+    }
+    .hero-stat {
+      text-align: center;
+      background: var(--gray-50);
+      border-radius: 10px;
+      padding: 1.2rem 1.8rem;
+      border: 1px solid var(--gray-200);
+    }
+    .hero-stat .num {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: var(--blue);
+      display: block;
+    }
+    .hero-stat .lbl {
+      font-size: 0.75rem;
+      color: var(--gray-600);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    /* SECTION TITLE */
+    .section-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--gray-900);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--gray-200);
+    }
+
+    /* CARDS GRID */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+    .card {
+      background: white;
+      border: 1px solid var(--gray-200);
+      border-radius: 10px;
+      padding: 1.4rem;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover {
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      transform: translateY(-2px);
+    }
+    .card .icon {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+    }
+    .card h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--gray-900);
+      margin-bottom: 0.4rem;
+    }
+    .card p {
+      font-size: 0.825rem;
+      color: var(--gray-600);
+      margin-bottom: 0.75rem;
+    }
+    .card .meta {
+      font-size: 0.75rem;
+      color: var(--gray-600);
+      display: flex;
+      gap: 0.75rem;
+    }
+    .card .meta span {
+      background: var(--gray-100);
+      border-radius: 4px;
+      padding: 0.15rem 0.5rem;
+    }
+
+    /* SUPPLIER TABLE */
+    .table-wrap {
+      background: white;
+      border: 1px solid var(--gray-200);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 2.5rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+    thead tr {
+      background: var(--gray-900);
+      color: white;
+    }
+    thead th {
+      padding: 0.85rem 1rem;
+      text-align: left;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    tbody tr {
+      border-bottom: 1px solid var(--gray-100);
+      transition: background 0.15s;
+    }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--gray-50); }
+    tbody td { padding: 0.85rem 1rem; }
+    .rank { font-weight: 800; color: var(--blue); font-size: 1rem; }
+    .score {
+      font-weight: 700;
+      font-size: 1rem;
+    }
+    .score.gold { color: #d97706; }
+    .score.silver { color: #64748b; }
+    .score.bronze { color: #92400e; }
+    .badge-sm {
+      display: inline-block;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 600;
+    }
+    .badge-green { background: #dcfce7; color: var(--green); }
+    .badge-amber { background: #fef3c7; color: var(--amber); }
+    .badge-red   { background: #fee2e2; color: var(--red); }
+    .badge-blue  { background: #dbeafe; color: var(--blue); }
+
+    /* CRITERIA BAR */
+    .criteria-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+    }
+    .crit-card {
+      background: white;
+      border: 1px solid var(--gray-200);
+      border-radius: 10px;
+      padding: 1.2rem;
+    }
+    .crit-card .label {
+      font-size: 0.75rem;
+      color: var(--gray-600);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 0.4rem;
+    }
+    .crit-card .weight {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--blue);
+    }
+    .crit-card .desc {
+      font-size: 0.78rem;
+      color: var(--gray-600);
+      margin-top: 0.3rem;
+    }
+    .bar {
+      height: 4px;
+      background: var(--gray-100);
+      border-radius: 2px;
+      margin-top: 0.6rem;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--blue-light), var(--teal));
+      border-radius: 2px;
+    }
+
+    /* WINNER */
+    .winner-box {
+      background: linear-gradient(135deg, #eff6ff, #f0fdf4);
+      border: 2px solid var(--blue-light);
+      border-radius: 12px;
+      padding: 1.8rem;
+      margin-bottom: 2.5rem;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1.5rem;
+      align-items: start;
+    }
+    .winner-medal {
+      font-size: 3rem;
+      line-height: 1;
+    }
+    .winner-box h3 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--gray-900);
+      margin-bottom: 0.25rem;
+    }
+    .winner-box .sub {
+      font-size: 0.8rem;
+      color: var(--gray-600);
+      margin-bottom: 0.75rem;
+    }
+    .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+
+    /* RISK */
+    .risk-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+    }
+    .risk-card {
+      background: white;
+      border: 1px solid var(--gray-200);
+      border-radius: 10px;
+      padding: 1.1rem;
+      border-left: 4px solid var(--gray-200);
+    }
+    .risk-card.low  { border-left-color: var(--green); }
+    .risk-card.mid  { border-left-color: var(--amber); }
+    .risk-card.high { border-left-color: var(--red); }
+    .risk-card h4   { font-size: 0.85rem; font-weight: 700; color: var(--gray-900); margin-bottom: 0.3rem; }
+    .risk-card p    { font-size: 0.78rem; color: var(--gray-600); }
+
+    /* FOOTER */
+    footer {
+      text-align: center;
+      padding: 2rem 1.5rem;
+      background: var(--gray-900);
+      color: rgba(255,255,255,0.5);
+      font-size: 0.8rem;
+      margin-top: 3rem;
+    }
+    footer span { color: rgba(255,255,255,0.8); }
+
+    @media (max-width: 600px) {
+      .hero-card { grid-template-columns: 1fr; }
+      .winner-box { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="badge">FEBA Elektronik — Gri Su Ekipmanları</div>
+  <h1>Gri Su Bilgi Merkezi</h1>
+  <p>Tedarikçi Veritabanı · Değerlendirme Raporları · Pazar Araştırması</p>
+</header>
+
+<nav>
+  <a href="#degerlendirme" class="active">Tedarikçi Değerlendirme</a>
+  <a href="#tedarikcilar">Tedarikçi Veritabanı</a>
+  <a href="#riskler">Risk Analizi</a>
+  <a href="#oneri">Nihai Öneri</a>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <div class="hero-card" id="degerlendirme">
+    <div>
+      <h2>Motorlu Vana Tedarikçisi Seçimi — Mart 2026</h2>
+      <p>5 Çinli tedarikçi, 5 ağırlıklı kriter üzerinden değerlendirildi. Satın Alma, Kalite Kontrol, Lojistik, Risk ve Hukuk perspektiflerinden kapsamlı analiz.</p>
+    </div>
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;">
+      <div class="hero-stat"><span class="num">5</span><span class="lbl">Tedarikçi</span></div>
+      <div class="hero-stat"><span class="num">5</span><span class="lbl">Kriter</span></div>
+      <div class="hero-stat"><span class="num">8.75</span><span class="lbl">En Yüksek</span></div>
+    </div>
+  </div>
+
+  <!-- KRİTERLER -->
+  <div class="section-title">Değerlendirme Kriterleri & Ağırlıklar</div>
+  <div class="criteria-grid">
+    <div class="crit-card">
+      <div class="label">Fiyat</div>
+      <div class="weight">%30</div>
+      <div class="desc">FOB birim fiyat, MOQ esnekliği, indirim potansiyeli</div>
+      <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+    </div>
+    <div class="crit-card">
+      <div class="label">Kalite</div>
+      <div class="weight">%25</div>
+      <div class="desc">CE/RoHS/WRAS/ISO sertifikaları, IP koruma seviyesi</div>
+      <div class="bar"><div class="bar-fill" style="width:83%"></div></div>
+    </div>
+    <div class="crit-card">
+      <div class="label">Teslimat</div>
+      <div class="weight">%20</div>
+      <div class="desc">Üretim süresi, nakliye hızı, kargo seçenekleri</div>
+      <div class="bar"><div class="bar-fill" style="width:67%"></div></div>
+    </div>
+    <div class="crit-card">
+      <div class="label">Güvenilirlik</div>
+      <div class="weight">%15</div>
+      <div class="desc">Alibaba puanı, firma yaşı, müşteri referansları</div>
+      <div class="bar"><div class="bar-fill" style="width:50%"></div></div>
+    </div>
+    <div class="crit-card">
+      <div class="label">Sözleşme</div>
+      <div class="weight">%10</div>
+      <div class="desc">Ödeme esnekliği, L/C, Trade Assurance, iade politikası</div>
+      <div class="bar"><div class="bar-fill" style="width:33%"></div></div>
+    </div>
+  </div>
+
+  <!-- TABLO -->
+  <div class="section-title" id="tedarikcilar">Ağırlıklı Puan Tablosu</div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Tedarikçi</th>
+          <th>Konum</th>
+          <th>Fiyat ×.30</th>
+          <th>Kalite ×.25</th>
+          <th>Teslimat ×.20</th>
+          <th>Güven ×.15</th>
+          <th>Sözleşme ×.10</th>
+          <th>TOPLAM</th>
+          <th>Durum</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="rank">🥇</td>
+          <td><strong>Zhejiang Vanny Valve</strong></td>
+          <td>Wenzhou, ZJ</td>
+          <td>2.55</td>
+          <td>2.25</td>
+          <td>1.70</td>
+          <td>1.35</td>
+          <td>0.90</td>
+          <td class="score gold">8.75</td>
+          <td><span class="badge-sm badge-green">ANA SEÇİM</span></td>
+        </tr>
+        <tr>
+          <td class="rank">🥈</td>
+          <td><strong>Ningbo Kailing Valve</strong></td>
+          <td>Ningbo, ZJ</td>
+          <td>2.70</td>
+          <td>1.88</td>
+          <td>1.40</td>
+          <td>1.28</td>
+          <td>0.70</td>
+          <td class="score silver">7.96</td>
+          <td><span class="badge-sm badge-blue">İZLE</span></td>
+        </tr>
+        <tr>
+          <td class="rank">🥉</td>
+          <td><strong>Yuyao Tonhe Flow</strong></td>
+          <td>Yuyao, ZJ</td>
+          <td>2.40</td>
+          <td>2.00</td>
+          <td>1.60</td>
+          <td>1.20</td>
+          <td>0.70</td>
+          <td class="score bronze">7.90</td>
+          <td><span class="badge-sm badge-green">YEDEK</span></td>
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>Shenzhen Minghe Electric</td>
+          <td>Shenzhen, GD</td>
+          <td>1.65</td>
+          <td>2.00</td>
+          <td>1.80</td>
+          <td>1.13</td>
+          <td>0.80</td>
+          <td class="score">7.38</td>
+          <td><span class="badge-sm badge-amber">IoT İÇİN</span></td>
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>Shanghai Relia Instruments</td>
+          <td>Shanghai</td>
+          <td>1.95</td>
+          <td>1.50</td>
+          <td>1.40</td>
+          <td>0.98</td>
+          <td>0.75</td>
+          <td class="score">6.58</td>
+          <td><span class="badge-sm badge-red">UYGUN DEĞİL</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- RİSKLER -->
+  <div class="section-title" id="riskler">Risk Analizi</div>
+  <div class="risk-grid">
+    <div class="risk-card low">
+      <h4>Döviz Riski (CNY/USD)</h4>
+      <p>Beklenen aralık 7.0–7.5 — USD sabit fiyat sözleşmesiyle azaltılabilir.</p>
+    </div>
+    <div class="risk-card high">
+      <h4>Tek Tedarikçi Bağımlılığı</h4>
+      <p>Yüksek risk. Vanny (ON/OFF) + Tonhe (3-yollu) çift tedarikçi stratejisi önerilir.</p>
+    </div>
+    <div class="risk-card mid">
+      <h4>Nakliye Gecikmesi</h4>
+      <p>2025'e göre %8–12 fiyat artışı bekleniyor. 60 günlük stok tamponu tutulmalı.</p>
+    </div>
+    <div class="risk-card low">
+      <h4>Kalite Tutarsızlığı</h4>
+      <p>Sevkiyat öncesi 3. parti QC (SGS/BV) ile minimize edilebilir — ~$150/lot.</p>
+    </div>
+    <div class="risk-card mid">
+      <h4>İletişim Engeli</h4>
+      <p>Kailing'de İngilizce zayıf. Vanny & Tonhe güçlü İngilizce destek sunuyor.</p>
+    </div>
+    <div class="risk-card low">
+      <h4>Sertifika Uyumu</h4>
+      <p>AB pazarı için WRAS kritik — yalnızca Vanny'de mevcut. Türkiye CE zorunluluğu: tüm firmalarda ✅</p>
+    </div>
+  </div>
+
+  <!-- NİHAİ ÖNERİ -->
+  <div class="section-title" id="oneri">Nihai Öneri</div>
+
+  <div class="winner-box">
+    <div class="winner-medal">🏆</div>
+    <div>
+      <h3>ANA TEDARİKÇİ: Zhejiang Vanny Valve Co., Ltd.</h3>
+      <div class="sub">Wenzhou, Zhejiang · Kuruluş 2005 · 4.9/5 (342 değerlendirme) · Gold Supplier 15 yıl</div>
+      <div class="tags">
+        <span class="badge-sm badge-blue">CE</span>
+        <span class="badge-sm badge-blue">RoHS</span>
+        <span class="badge-sm badge-blue">ISO 9001:2015</span>
+        <span class="badge-sm badge-green">WRAS</span>
+        <span class="badge-sm badge-green">IP65/IP67</span>
+        <span class="badge-sm badge-green">L/C Kabul</span>
+        <span class="badge-sm badge-green">Türk Ref. Mevcut</span>
+        <span class="badge-sm badge-amber">%10 İlk Sipariş İndirimi</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="winner-box" style="border-color: #9ca3af; background: linear-gradient(135deg, #f8fafc, #f0fdf4);">
+    <div class="winner-medal">🥈</div>
+    <div>
+      <h3>YEDEK / TAMAMLAYICI: Yuyao Tonhe Flow Control Co., Ltd.</h3>
+      <div class="sub">Yuyao, Zhejiang · Kuruluş 2003 · 4.8/5 (278 değerlendirme) · 3-Yollu Vana Uzmanı</div>
+      <div class="tags">
+        <span class="badge-sm badge-blue">CE</span>
+        <span class="badge-sm badge-blue">ISO 9001</span>
+        <span class="badge-sm badge-green">3-Yollu Vana</span>
+        <span class="badge-sm badge-green">Gri Su Uygulaması</span>
+        <span class="badge-sm badge-amber">0-10V Kontrol</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- EYLEM PLANI -->
+  <div class="section-title">Aksiyon Planı</div>
+  <div class="cards-grid">
+    <div class="card">
+      <div class="icon">📦</div>
+      <h3>1. Hafta — Numune Siparişi</h3>
+      <p>Vanny'den 5 adet 1/2" + 5 adet 3/4" pirinç vana; Tonhe'den 5 adet 3-yollu 1/2" vana.</p>
+      <div class="meta"><span>Sorumlu: Satın Alma</span><span>~$80 + DHL</span></div>
+    </div>
+    <div class="card">
+      <div class="icon">🔬</div>
+      <h3>2–3. Hafta — Kalite Testi</h3>
+      <p>IP65 sızdırmazlık, voltaj dayanımı ve uzun süreli çalışma testi (72 saat). TSE veya akredite lab.</p>
+      <div class="meta"><span>Sorumlu: KK Müh.</span><span>~$150</span></div>
+    </div>
+    <div class="card">
+      <div class="icon">📞</div>
+      <h3>1–2. Hafta — Referans Doğrulama</h3>
+      <p>Vanny'nin Türk müşteri referanslarına ulaş, deneyimlerini öğren.</p>
+      <div class="meta"><span>Sorumlu: Satın Alma</span><span>Ücretsiz</span></div>
+    </div>
+    <div class="card">
+      <div class="icon">🤝</div>
+      <h3>4. Hafta — Pilot Sipariş</h3>
+      <p>100 adet karışık boyut (1/2" + 3/4" + 1"). Deniz yolu ile Ningbo→İzmir.</p>
+      <div class="meta"><span>Sorumlu: Satın Alma</span><span>~$800 + nakliye</span></div>
+    </div>
+    <div class="card">
+      <div class="icon">📝</div>
+      <h3>8. Hafta — Çerçeve Sözleşme</h3>
+      <p>2026–2027 dönemi için yıllık hacim taahhüdü + sabit USD fiyatı + kalite garantisi.</p>
+      <div class="meta"><span>Sorumlu: Hukuk + Satın Alma</span></div>
+    </div>
+    <div class="card">
+      <div class="icon">🔄</div>
+      <h3>Sürekli — Çift Tedarikçi</h3>
+      <p>ON/OFF vanalar: Vanny | 3-yollu vanalar: Tonhe. Tek tedarikçi bağımlılığını önler.</p>
+      <div class="meta"><span>Strateji: Risk Azaltma</span></div>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <p>Hazırlayan: <span>FEBA Elektronik — Satın Alma & Ar-Ge</span> &nbsp;|&nbsp; <span>22 Mart 2026</span> &nbsp;|&nbsp; Veri kaynağı: suppliers/by-region/asia/china.md</p>
+  <p style="margin-top:0.5rem; font-size:0.7rem;">Dahili kullanım — Gizlilik: Şirket İçi</p>
+</footer>
+
+</body>
+</html>
